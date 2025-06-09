@@ -1,4 +1,6 @@
-<img src="assets\logo.jpg" alt="Logo do Projeto" width="300" align="lef" justify="center">
+<div align="center" >
+<img src="assets\logo.jpg" alt="Logo do Projeto" width="300" justify="center">
+</div>
 
 #  Mapeamento de Nomes de Pagamentos em Faturas no Brasil 🇧🇷
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gill3s0x01/OSINT-purchase-analisys)
